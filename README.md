@@ -2,7 +2,7 @@
 
 #Commands:
 
-OBS: A pasta DATA tinha 300mb e não consegui fazer o upload, sendo necessário criá-la
+OBS: A pasta DATA tinha 300mb e não consegui fazer o upload, sendo necessário criá-la.
 
 1 - use cinema
 
