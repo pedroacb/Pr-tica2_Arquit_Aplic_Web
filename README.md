@@ -2,6 +2,8 @@
 
 #Commands:
 
+OBS: A pasta DATA tinha 300mb e não consegui fazer o upload, sendo necessário criá-la
+
 1 - use cinema
 
  db.filmes.insertOne({titulo: 'Ambulância - Um Dia de Crime', sinopse: 'Dois assaltantes roubam uma ambulância depois do assalto deles ter corrido mal.', duracao: 136, dataLancamento: '24/03/2022', imagem: 'images/posters/Ambulancia-Um-Dia-de-Crime-filme.jpg', categorias: ['Policial', 'Ação', 'Drama', 'Suspense'], fundo: 'images/backgrounds/Ambulance_HomeMainCarousel_1920x1025-1.jpg'})
